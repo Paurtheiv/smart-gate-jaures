@@ -206,7 +206,7 @@ BTS CIEL A — Lycée Jean Jaurès, Argenteuil (95)
 Zone 1 : Entrée principale  
 Fonctions : F1, F2, F3, F13, F14, F15, F16
 
-📧 paurtheiv9336@gmail.com  
+📧 paurtheiv.laxman.fr@gmail.com  
 🔗 [Portfolio](https://paurtheiv.github.io)  
 🔗 [LinkedIn](https://linkedin.com/in/paurtheiv-krishna-laxman080068345)
 
