@@ -1,0 +1,25 @@
+# Credentials — NE JAMAIS uploader
+config/config.py
+config/db.php
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Logs & données
+logs/
+*.log
+
+# Photos élèves (RGPD)
+assets/photos/
+static/photos/
+
+# Backups / Raspberry OS
+smartgate_zone1_raspberry/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
